@@ -15,4 +15,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![ShibalTokenLOGO](https://user-images.githubusercontent.com/93858661/140729647-d586e53e-d0ec-4811-8ed1-f8012827e49f.jpeg)
